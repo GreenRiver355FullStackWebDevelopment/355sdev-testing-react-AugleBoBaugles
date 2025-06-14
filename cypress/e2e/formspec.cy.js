@@ -1,6 +1,6 @@
 describe('Form', () => {
   beforeEach(() => {
-    cy.visit('http://localhost:5174')
+    cy.visit('http://localhost:5173')
   })
 
   it("Create a booking", () => {
